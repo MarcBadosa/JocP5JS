@@ -1,0 +1,19 @@
+
+body{
+    background-image: url("Imatges/fons99.jpg");
+    padding: 0; 
+    margin: 0;
+}
+
+.p5Canvas{
+    position: fixed;
+    top:50px;
+    left: 180px;
+    bottom: 50px;
+    opacity: 0.9;
+ 
+}
+header{
+   margin-left: 15px;
+   margin-top: 15px;
+}
